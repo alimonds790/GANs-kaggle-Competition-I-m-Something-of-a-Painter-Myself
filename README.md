@@ -1,7 +1,7 @@
 # GANs-kaggle-Competition-I-m-Something-of-a-Painter-Myself
 
 ## Author: Ali Saleh
-
+## Notebook link since I failed to upload normally due to size: https://colab.research.google.com/drive/1k-RMUdB1F-Yd02o3mD-02V1TU_vadifv?usp=drive_link
 This notebook presents a solution for the Kaggle "I'm Something of a Painter Myself" competition. The objective is to construct a Generative Adversarial Network (GAN) capable of generating 7,000 to 10,000 new images in the distinctive artistic style of Claude Monet.
 
 ## The approach involves two competing neural networks:
